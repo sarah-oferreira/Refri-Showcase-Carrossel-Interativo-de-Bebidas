@@ -2,6 +2,8 @@
 
 Uma interface web interativa e visual desenvolvida para apresentar diferentes sabores de refrigerantes por meio de um carrossel com animações, transições e navegação entre os produtos.
 
+◉ Acessar projeto online
+
 ## Sobre o projeto
 
 O **Refri Showcase** é um projeto front-end desenvolvido para praticar a construção de interfaces modernas utilizando **HTML, CSS e JavaScript**.
