@@ -2,7 +2,7 @@
 
 Uma interface web interativa e visual desenvolvida para apresentar diferentes sabores de refrigerantes por meio de um carrossel com animações, transições e navegação entre os produtos.
 
-◉ Acessar projeto online
+◉ **[Acessar projeto online](https://refri-showcase-carrossel-interativo.vercel.app/)**
 
 ## Sobre o projeto
 
